@@ -32,8 +32,12 @@ button{
    box-shadow:
                inset 5px 5px 14px rgba(0, 0, 0, .3);
    background-color: white;
+<<<<<<< HEAD
   
    -webkit-tap-highlight-color: transparent;
+=======
+    -webkit-tap-highlight-color: transparent;
+>>>>>>> de7f5a3e3b17482c7e9bb04c92dad892c08c4943
 }
 #caldiv{
     grid-column: span 4;
@@ -65,6 +69,7 @@ background-color: lightseagreen;
 .func:hover{
     background-color: greenyellow;
 }
+<<<<<<< HEAD
 .sapa{
     color: rgb(255, 255, 255);
     font-family: sans-serif;
@@ -75,3 +80,5 @@ background-color: lightseagreen;
     padding: 0 10px 0 10px;
     border-radius: 10px;
 }
+=======
+>>>>>>> de7f5a3e3b17482c7e9bb04c92dad892c08c4943
